@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Descendant Indented Tree for Mehta, Damji</title>
+    <title>Descendant Indented Tree for Mehta, Raghavji</title>
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
     <script type="text/javascript" src="js/d3/d3.min.js"></script>
     <script type="text/javascript" src="js/d3/d3.tip.v0.6.3.js"></script>
     <script type="text/javascript" src="js/jquery/jquery-2.0.3.min.js"></script>
     <link type="text/css" rel="stylesheet" href="css/d3.tip.css"/>
-    <link type="text/css" rel="stylesheet" href="css/indentedtree-DescendantIndentedTree.css"/>
+    <link type="text/css" rel="stylesheet" href="css/indentedtree-index.css"/>
   </head>
   <body>
     <div id="body">
       <div id="start">
-       <h1>Descendant Indented Tree for Mehta, Damji</h1>
+       <h1>Descendant Indented Tree for Mehta, Raghavji</h1>
       </div>
       <div id="chart">
       </div>
@@ -32,7 +32,7 @@
     <script type="text/javascript">
       var cur_view = "DEFAULT";
       window.onload = function() {
-        $.getScript("js/indentedtree-DescendantIndentedTree.js", function( data, textStatus, jqxhr ) {
+        $.getScript("js/indentedtree-index.js", function( data, textStatus, jqxhr ) {
           // do some stuff after script is loaded
         });
         this.cur_view = "DEFAULT";
@@ -41,7 +41,7 @@
         if (cur_view !== "DEFAULT") {
           d3.select("div.div_svg").select("svg").remove();
           d3.select("div.d3-tip").remove();
-          $.getScript("js/indentedtree-DescendantIndentedTree.js", function( data, textStatus, jqxhr ) {
+          $.getScript("js/indentedtree-index.js", function( data, textStatus, jqxhr ) {
             // do some stuff after script is loaded
           });
           cur_view = "DEFAULT";
@@ -51,7 +51,7 @@
         if (cur_view == "DEFAULT") {
           d3.select("div.div_svg").select("svg").remove();
           d3.select("div.d3-tip").remove();
-          $.getScript("js/indentedtree-DescendantIndentedTree-expanded.js", function( data, textStatus, jqxhr ) {
+          $.getScript("js/indentedtree-index-expanded.js", function( data, textStatus, jqxhr ) {
             // do some stuff after script is loaded
           });
           cur_view = "EXPANDED";
