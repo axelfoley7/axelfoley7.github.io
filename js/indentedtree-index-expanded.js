@@ -1,7 +1,7 @@
 var margin = {top: 30, right: 20, bottom: 30, left: 20},
  width = 1024 - margin.left - margin.right,
  textMargin = 20,
- barHeight = 20,
+ barHeight = 24,
  i = 0,
  duration = 400,
  contraction = 99,
