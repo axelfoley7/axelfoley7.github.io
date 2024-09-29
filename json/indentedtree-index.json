@@ -1,6 +1,6 @@
 {
  "display_num": "1.",
- "name": "Mehta, Raghavji",
+ "name": "Raghavji Mehta",
  "spouse": "false",
  "born": "",
  "died": "",
@@ -15,11 +15,11 @@
  "children": [
   {
    "display_num": "2.",
-   "name": "Mehta, Malji",
+   "name": "Malji Mehta",
    "spouse": "false",
    "born": "",
    "died": "",
-   "biography": "He is the son of Mehta, Raghavji. He had a relationship with Unknown. ",
+   "biography": "He was the son of Raghavji Mehta. He had a relationship with Unknown. ",
    "gender": "male",
   "children": [
   {
@@ -30,11 +30,11 @@
    "children": [
     {
      "display_num": "3.",
-     "name": "Mehta, Damji",
+     "name": "Damji Mehta",
      "spouse": "false",
      "born": "",
      "died": "",
-     "biography": "He is the son of Mehta, Malji. He had a relationship with Unknown. ",
+     "biography": "He was the son of Malji Mehta. He had a relationship with Unknown. ",
      "gender": "male",
     "children": [
     {
@@ -45,11 +45,11 @@
      "children": [
       {
        "display_num": "4.",
-       "name": "Mehta, Lavji",
+       "name": "Lavji Mehta",
        "spouse": "false",
        "born": "",
        "died": "",
-       "biography": "He is the son of Mehta, Damji. He had a relationship with Unknown. ",
+       "biography": "He was the son of Damji Mehta. He had a relationship with Unknown. ",
        "gender": "male",
       "children": [
       {
@@ -60,51 +60,51 @@
        "children": [
         {
          "display_num": "5.",
-         "name": "Mehta, Trikambhai",
+         "name": "Trikambhai Mehta",
          "spouse": "false",
          "born": "",
          "died": "",
-         "biography": "He is the son of Mehta, Lavji. He had a relationship with , Jamben. ",
+         "biography": "He is the son of Lavji Mehta. He had a relationship with Jamben. ",
          "gender": "male",
         "children": [
         {
          "display_num": "sp.",
-         "name": ", Jamben",
+         "name": "Jamben",
          "spouse": "true",
          "born": "",
          "died": "",
          "marriage": "",
          "divorce": "",
-         "biography": "She had a relationship with Mehta, Trikambhai. ",
+         "biography": "She had a relationship with Trikambhai Mehta. ",
          "gender": "female",
          "children": [
           {
            "display_num": "6.",
-           "name": "Mehta, Shamjibhai",
+           "name": "Shamjibhai Mehta",
            "spouse": "false",
            "born": "",
            "died": "",
-           "biography": "He is the son of Mehta, Trikambhai and , Jamben. He married Mehta, Maniben. ",
+           "biography": "He is the son of Trikambhai Mehta and Jamben. He married Maniben Mehta. ",
            "gender": "male",
           "children": [
           {
            "display_num": "sp.",
-           "name": "Mehta, Maniben",
+           "name": "Maniben Mehta",
            "spouse": "true",
            "born": "",
            "died": "",
            "marriage": "",
            "divorce": "",
-           "biography": "She married Mehta, Shamjibhai. ",
+           "biography": "She married Shamjibhai Mehta. ",
            "gender": "female",
            "children": [
             {
              "display_num": "7.",
-             "name": "Mehta, Bachubhai",
+             "name": "Bachubhai Mehta",
              "spouse": "false",
              "born": "",
              "died": "",
-             "biography": "He is the son of Mehta, Shamjibhai and Mehta, Maniben. He had a relationship with Unknown. ",
+             "biography": "He is the son of Shamjibhai Mehta and Maniben Mehta. He had a relationship with Unknown. ",
              "gender": "male",
             "children": [
             {
@@ -115,32 +115,32 @@
              "children": [
               {
                "display_num": "8.",
-               "name": "Mehta, Meena",
+               "name": "Meena Mehta",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Mehta, Bachubhai. She married , Yogesh. ",
+               "biography": "She is the daughter of Bachubhai Mehta. She married Yogesh. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": ", Yogesh",
+               "name": "Yogesh",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Mehta, Meena. ",
+               "biography": "He married Meena Mehta. ",
                "gender": "male"              }
               ]
               }
 ,              {
                "display_num": "8.",
-               "name": ", Bhavna",
+               "name": "Bhavna",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Mehta, Bachubhai. ",
+               "biography": "She is the daughter of Bachubhai Mehta. ",
                "gender": "female"
               }
 
@@ -150,69 +150,69 @@
             }
 ,            {
              "display_num": "7.",
-             "name": "Mehta, Purshotamdas",
+             "name": "Purshotamdas Mehta",
              "spouse": "false",
              "born": "",
              "died": "",
-             "biography": "He is the son of Mehta, Shamjibhai and Mehta, Maniben. He had a relationship with , Vijayaben. ",
+             "biography": "He is the son of Shamjibhai Mehta and Maniben Mehta. He had a relationship with Vijayaben. ",
              "gender": "male",
             "children": [
             {
              "display_num": "sp.",
-             "name": ", Vijayaben",
+             "name": "Vijayaben",
              "spouse": "true",
              "born": "",
              "died": "",
              "marriage": "",
              "divorce": "",
-             "biography": "She had a relationship with Mehta, Purshotamdas. ",
+             "biography": "She had a relationship with Purshotamdas Mehta. ",
              "gender": "female",
              "children": [
               {
                "display_num": "8.",
-               "name": ", Raksha",
+               "name": "Raksha",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Mehta, Purshotamdas and , Vijayaben. ",
+               "biography": "She is the daughter of Purshotamdas Mehta and Vijayaben. ",
                "gender": "female"
               }
 ,              {
                "display_num": "8.",
-               "name": ", Yogesh",
+               "name": "Yogesh",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "He is the son of Mehta, Purshotamdas and , Vijayaben. He had a relationship with , Rupa. ",
+               "biography": "He is the son of Purshotamdas Mehta and Vijayaben. He had a relationship with Rupa. ",
                "gender": "male",
               "children": [
               {
                "display_num": "sp.",
-               "name": ", Rupa",
+               "name": "Rupa",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "She had a relationship with , Yogesh. ",
+               "biography": "She had a relationship with Yogesh. ",
                "gender": "female",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": ", Kajal",
+                 "name": "Kajal",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of , Yogesh and , Rupa. ",
+                 "biography": "She is the daughter of Yogesh and Rupa. ",
                  "gender": "female"
                 }
 ,                {
                  "display_num": "9.",
-                 "name": ", Yash",
+                 "name": "Yash",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of , Yogesh and , Rupa. ",
+                 "biography": "He is the son of Yogesh and Rupa. ",
                  "gender": "male"
                 }
 
@@ -222,11 +222,11 @@
               }
 ,              {
                "display_num": "8.",
-               "name": ", Kamini",
+               "name": "Kamini",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Mehta, Purshotamdas and , Vijayaben. ",
+               "biography": "She is the daughter of Purshotamdas Mehta and Vijayaben. ",
                "gender": "female"
               }
 
@@ -236,60 +236,60 @@
             }
 ,            {
              "display_num": "7.",
-             "name": "Mehta, Bhogibhai",
+             "name": "Bhogibhai Mehta",
              "spouse": "false",
              "born": "",
              "died": "",
-             "biography": "He is the son of Mehta, Shamjibhai and Mehta, Maniben. He had a relationship with , Bhadraben. ",
+             "biography": "He is the son of Shamjibhai Mehta and Maniben Mehta. He had a relationship with Bhadraben. ",
              "gender": "male",
             "children": [
             {
              "display_num": "sp.",
-             "name": ", Bhadraben",
+             "name": "Bhadraben",
              "spouse": "true",
              "born": "",
              "died": "",
              "marriage": "",
              "divorce": "",
-             "biography": "She had a relationship with Mehta, Bhogibhai. ",
+             "biography": "She had a relationship with Bhogibhai Mehta. ",
              "gender": "female",
              "children": [
               {
                "display_num": "8.",
-               "name": ", Jivan",
+               "name": "Jivan",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "He is the son of Mehta, Bhogibhai and , Bhadraben. He had a relationship with , Heena. ",
+               "biography": "He is the son of Bhogibhai Mehta and Bhadraben. He had a relationship with Heena. ",
                "gender": "male",
               "children": [
               {
                "display_num": "sp.",
-               "name": ", Heena",
+               "name": "Heena",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "She had a relationship with , Jivan. ",
+               "biography": "She had a relationship with Jivan. ",
                "gender": "female",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": ", Amy",
+                 "name": "Amy",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of , Jivan and , Heena. ",
+                 "biography": "She is the daughter of Jivan and Heena. ",
                  "gender": "female"
                 }
 ,                {
                  "display_num": "9.",
-                 "name": ", Niki",
+                 "name": "Niki",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of , Jivan and , Heena. ",
+                 "biography": "She is the daughter of Jivan and Heena. ",
                  "gender": "female"
                 }
 
@@ -299,11 +299,11 @@
               }
 ,              {
                "display_num": "8.",
-               "name": ", Kartik",
+               "name": "Kartik",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "He is the son of Mehta, Bhogibhai and , Bhadraben. He had a relationship with Unknown. ",
+               "biography": "He is the son of Bhogibhai Mehta and Bhadraben. He had a relationship with Unknown. ",
                "gender": "male",
               "children": [
               {
@@ -314,11 +314,11 @@
                "children": [
                 {
                  "display_num": "9.",
-                 "name": ", Millie",
+                 "name": "Millie",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of , Kartik. ",
+                 "biography": "She is the daughter of Kartik. ",
                  "gender": "female"
                 }
 
@@ -333,58 +333,58 @@
             }
 ,            {
              "display_num": "7.",
-             "name": "Mehta, Dhiravbhai",
+             "name": "Dhiravbhai Mehta",
              "spouse": "false",
              "born": "",
              "died": "",
-             "biography": "He is the son of Mehta, Shamjibhai and Mehta, Maniben. He had a relationship with , Davindra. ",
+             "biography": "He is the son of Shamjibhai Mehta and Maniben Mehta. He had a relationship with Davindra. ",
              "gender": "male",
             "children": [
             {
              "display_num": "sp.",
-             "name": ", Davindra",
+             "name": "Davindra",
              "spouse": "true",
              "born": "",
              "died": "",
              "marriage": "",
              "divorce": "",
-             "biography": "She had a relationship with Mehta, Dhiravbhai. ",
+             "biography": "She had a relationship with Dhiravbhai Mehta. ",
              "gender": "female",
              "children": [
               {
                "display_num": "8.",
-               "name": ", Jagruti",
+               "name": "Jagruti",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Mehta, Dhiravbhai and , Davindra. ",
+               "biography": "She is the daughter of Dhiravbhai Mehta and Davindra. ",
                "gender": "female"
               }
 ,              {
                "display_num": "8.",
-               "name": ", Bina",
+               "name": "Bina",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Mehta, Dhiravbhai and , Davindra. ",
+               "biography": "She is the daughter of Dhiravbhai Mehta and Davindra. ",
                "gender": "female"
               }
 ,              {
                "display_num": "8.",
-               "name": ", Chaya",
+               "name": "Chaya",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Mehta, Dhiravbhai and , Davindra. ",
+               "biography": "She is the daughter of Dhiravbhai Mehta and Davindra. ",
                "gender": "female"
               }
 ,              {
                "display_num": "8.",
-               "name": ", Meeta",
+               "name": "Meeta",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Mehta, Dhiravbhai and , Davindra. ",
+               "biography": "She is the daughter of Dhiravbhai Mehta and Davindra. ",
                "gender": "female"
               }
 
@@ -404,118 +404,118 @@
         }
 ,        {
          "display_num": "5.",
-         "name": "Mehta, Devjibhai",
+         "name": "Devjibhai Mehta",
          "spouse": "false",
          "born": "",
          "died": "",
-         "biography": "He is the son of Mehta, Lavji. He had a relationship with , TBC with Prafula. ",
+         "biography": "He is the son of Lavji Mehta. He had a relationship with TBC with Prafula. ",
          "gender": "male",
         "children": [
         {
          "display_num": "sp.",
-         "name": ", TBC with Prafula",
+         "name": "TBC with Prafula",
          "spouse": "true",
          "born": "",
          "died": "",
          "marriage": "",
          "divorce": "",
-         "biography": "She had a relationship with Mehta, Devjibhai. ",
+         "biography": "She had a relationship with Devjibhai Mehta. ",
          "gender": "female",
          "children": [
           {
            "display_num": "6.",
-           "name": ", Jiviben",
+           "name": "Jiviben",
            "spouse": "false",
            "born": "",
            "died": "",
-           "biography": "She is the daughter of Mehta, Devjibhai and , TBC with Prafula. ",
+           "biography": "She is the daughter of Devjibhai Mehta and TBC with Prafula. ",
            "gender": "female"
           }
 ,          {
            "display_num": "6.",
-           "name": ", Chanchalaben",
+           "name": "Chanchalaben",
            "spouse": "false",
            "born": "",
            "died": "",
-           "biography": "She is the daughter of Mehta, Devjibhai and , TBC with Prafula. ",
+           "biography": "She is the daughter of Devjibhai Mehta and TBC with Prafula. ",
            "gender": "female"
           }
 ,          {
            "display_num": "6.",
-           "name": "Shah, Ratilal",
+           "name": "Ratilal Shah",
            "spouse": "false",
            "born": "",
            "died": "",
-           "biography": "He is the son of Mehta, Devjibhai and , TBC with Prafula. He married Mehta, Kantaben. ",
+           "biography": "He is the son of Devjibhai Mehta and TBC with Prafula. He married Kantaben Mehta. ",
            "gender": "male",
           "children": [
           {
            "display_num": "sp.",
-           "name": "Mehta, Kantaben",
+           "name": "Kantaben Mehta",
            "spouse": "true",
            "born": "",
            "died": "",
            "marriage": "",
            "divorce": "",
-           "biography": "She married Shah, Ratilal. ",
+           "biography": "She married Ratilal Shah. ",
            "gender": "female",
            "children": [
             {
              "display_num": "7.",
-             "name": "Shah, Prafula",
+             "name": "Prafula Shah",
              "spouse": "false",
              "born": "",
              "died": "",
-             "biography": "She is the daughter of Shah, Ratilal and Mehta, Kantaben. She married Shah, Bhupat. ",
+             "biography": "She is the daughter of Ratilal Shah and Kantaben Mehta. She married Bhupat Shah. ",
              "gender": "female",
             "children": [
             {
              "display_num": "sp.",
-             "name": "Shah, Bhupat",
+             "name": "Bhupat Shah",
              "spouse": "true",
              "born": "",
              "died": "",
              "marriage": "",
              "divorce": "",
-             "biography": "He married Shah, Prafula. ",
+             "biography": "He married Prafula Shah. ",
              "gender": "male",
              "children": [
               {
                "display_num": "8.",
-               "name": "Shah, Nimesh",
+               "name": "Nimesh Shah",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "He is the son of Shah, Bhupat and Shah, Prafula. He married Shah, Kajal. ",
+               "biography": "He is the son of Bhupat Shah and Prafula Shah. He married Kajal Shah. ",
                "gender": "male",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Shah, Kajal",
+               "name": "Kajal Shah",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "She married Shah, Nimesh. ",
+               "biography": "She married Nimesh Shah. ",
                "gender": "female",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Shah, Niruv",
+                 "name": "Niruv Shah",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Shah, Nimesh and Shah, Kajal. ",
+                 "biography": "He is the son of Nimesh Shah and Kajal Shah. ",
                  "gender": "male"
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Shah, Anjali",
+                 "name": "Anjali Shah",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Shah, Nimesh and Shah, Kajal. ",
+                 "biography": "She is the daughter of Nimesh Shah and Kajal Shah. ",
                  "gender": "female"
                 }
 
@@ -525,40 +525,40 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Shah, Ritesh",
+               "name": "Ritesh Shah",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "He is the son of Shah, Bhupat and Shah, Prafula. He married Sinha, Shweta. ",
+               "biography": "He is the son of Bhupat Shah and Prafula Shah. He married Shweta Sinha. ",
                "gender": "male",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Sinha, Shweta",
+               "name": "Shweta Sinha",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "She married Shah, Ritesh. ",
+               "biography": "She married Ritesh Shah. ",
                "gender": "female",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Shah, Riya",
+                 "name": "Riya Shah",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Shah, Ritesh and Sinha, Shweta. ",
+                 "biography": "She is the daughter of Ritesh Shah and Shweta Sinha. ",
                  "gender": "female"
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Shah, Sonali",
+                 "name": "Sonali Shah",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Shah, Ritesh and Sinha, Shweta. ",
+                 "biography": "She is the daughter of Ritesh Shah and Shweta Sinha. ",
                  "gender": "female"
                 }
 
@@ -568,40 +568,40 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Shah, Krupa",
+               "name": "Krupa Shah",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Shah, Bhupat and Shah, Prafula. She married Sodhi, Gaurav. ",
+               "biography": "She is the daughter of Bhupat Shah and Prafula Shah. She married Gaurav Sodhi. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Sodhi, Gaurav",
+               "name": "Gaurav Sodhi",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Shah, Krupa. ",
+               "biography": "He married Krupa Shah. ",
                "gender": "male",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Sodhi, Rohan",
+                 "name": "Rohan Sodhi",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Sodhi, Gaurav and Shah, Krupa. ",
+                 "biography": "He is the son of Gaurav Sodhi and Krupa Shah. ",
                  "gender": "male"
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Sodhi, Ethan",
+                 "name": "Ethan Sodhi",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Sodhi, Gaurav and Shah, Krupa. ",
+                 "biography": "He is the son of Gaurav Sodhi and Krupa Shah. ",
                  "gender": "male"
                 }
 
@@ -616,51 +616,51 @@
             }
 ,            {
              "display_num": "7.",
-             "name": "Shah, Mukesh",
+             "name": "Mukesh Shah",
              "spouse": "false",
              "born": "",
              "died": "",
-             "biography": "He is the son of Shah, Ratilal and Mehta, Kantaben. He married Shah, Geeta. ",
+             "biography": "He is the son of Ratilal Shah and Kantaben Mehta. He married Geeta Shah. ",
              "gender": "male",
             "children": [
             {
              "display_num": "sp.",
-             "name": "Shah, Geeta",
+             "name": "Geeta Shah",
              "spouse": "true",
              "born": "",
              "died": "",
              "marriage": "",
              "divorce": "",
-             "biography": "She married Shah, Mukesh. ",
+             "biography": "She married Mukesh Shah. ",
              "gender": "female",
              "children": [
               {
                "display_num": "8.",
-               "name": "Shah, Sneha",
+               "name": "Sneha Shah",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Shah, Mukesh and Shah, Geeta. She married Shah, Yul. ",
+               "biography": "She is the daughter of Mukesh Shah and Geeta Shah. She married Yul Shah. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Shah, Yul",
+               "name": "Yul Shah",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Shah, Sneha. ",
+               "biography": "He married Sneha Shah. ",
                "gender": "male",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Shah, Rian",
+                 "name": "Rian Shah",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Shah, Yul and Shah, Sneha. ",
+                 "biography": "He is the son of Yul Shah and Sneha Shah. ",
                  "gender": "male"
                 }
 
@@ -675,51 +675,51 @@
             }
 ,            {
              "display_num": "7.",
-             "name": "Shah, Anita",
+             "name": "Anita Shah",
              "spouse": "false",
              "born": "",
              "died": "",
-             "biography": "She is the daughter of Shah, Ratilal and Mehta, Kantaben. She married Mehta, Ashok Kumar. ",
+             "biography": "She is the daughter of Ratilal Shah and Kantaben Mehta. She married Ashok Kumar Mehta. ",
              "gender": "female",
             "children": [
             {
              "display_num": "sp.",
-             "name": "Mehta, Ashok Kumar",
+             "name": "Ashok Kumar Mehta",
              "spouse": "true",
              "born": "",
              "died": "",
              "marriage": "",
              "divorce": "",
-             "biography": "He married Shah, Anita. ",
+             "biography": "He married Anita Shah. ",
              "gender": "male",
              "children": [
               {
                "display_num": "8.",
-               "name": "Mehta, Meera",
+               "name": "Meera Mehta",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Mehta, Ashok Kumar and Shah, Anita. ",
+               "biography": "She is the daughter of Ashok Kumar Mehta and Anita Shah. ",
                "gender": "female"
               }
 ,              {
                "display_num": "8.",
-               "name": "Mehta, Sachin",
+               "name": "Sachin Mehta",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "He is the son of Mehta, Ashok Kumar and Shah, Anita. He married Mehta, Sabrina. ",
+               "biography": "He is the son of Ashok Kumar Mehta and Anita Shah. He married Sabrina Mehta. ",
                "gender": "male",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Mehta, Sabrina",
+               "name": "Sabrina Mehta",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "She married Mehta, Sachin. ",
+               "biography": "She married Sachin Mehta. ",
                "gender": "female"              }
               ]
               }
@@ -730,40 +730,40 @@
             }
 ,            {
              "display_num": "7.",
-             "name": "Shah, Meena",
+             "name": "Meena Shah",
              "spouse": "false",
              "born": "",
              "died": "",
-             "biography": "She is the daughter of Shah, Ratilal and Mehta, Kantaben. She had a relationship with Desai, Rajesh. ",
+             "biography": "She is the daughter of Ratilal Shah and Kantaben Mehta. She had a relationship with Rajesh Desai. ",
              "gender": "female",
             "children": [
             {
              "display_num": "sp.",
-             "name": "Desai, Rajesh",
+             "name": "Rajesh Desai",
              "spouse": "true",
              "born": "",
              "died": "",
              "marriage": "",
              "divorce": "",
-             "biography": "He had a relationship with Shah, Meena. ",
+             "biography": "He had a relationship with Meena Shah. ",
              "gender": "male",
              "children": [
               {
                "display_num": "8.",
-               "name": "Desai, Dishti",
+               "name": "Dishti Desai",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Desai, Rajesh and Shah, Meena. ",
+               "biography": "She is the daughter of Rajesh Desai and Meena Shah. ",
                "gender": "female"
               }
 ,              {
                "display_num": "8.",
-               "name": "Desai, Bhavesha",
+               "name": "Bhavesha Desai",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Desai, Rajesh and Shah, Meena. ",
+               "biography": "She is the daughter of Rajesh Desai and Meena Shah. ",
                "gender": "female"
               }
 
@@ -773,49 +773,49 @@
             }
 ,            {
              "display_num": "7.",
-             "name": "Shah, Naymit",
+             "name": "Naymit Shah",
              "spouse": "false",
              "born": "",
              "died": "",
-             "biography": "He is the son of Shah, Ratilal and Mehta, Kantaben. He had a relationship with Shah, Sarah. ",
+             "biography": "He is the son of Ratilal Shah and Kantaben Mehta. He had a relationship with Sarah Shah. ",
              "gender": "male",
             "children": [
             {
              "display_num": "sp.",
-             "name": "Shah, Sarah",
+             "name": "Sarah Shah",
              "spouse": "true",
              "born": "",
              "died": "",
              "marriage": "",
              "divorce": "",
-             "biography": "She had a relationship with Shah, Naymit. ",
+             "biography": "She had a relationship with Naymit Shah. ",
              "gender": "female",
              "children": [
               {
                "display_num": "8.",
-               "name": "Shah, Eloise",
+               "name": "Eloise Shah",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Shah, Naymit and Shah, Sarah. ",
+               "biography": "She is the daughter of Naymit Shah and Sarah Shah. ",
                "gender": "female"
               }
 ,              {
                "display_num": "8.",
-               "name": "Shah, Ruby",
+               "name": "Ruby Shah",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Shah, Naymit and Shah, Sarah. ",
+               "biography": "She is the daughter of Naymit Shah and Sarah Shah. ",
                "gender": "female"
               }
 ,              {
                "display_num": "8.",
-               "name": "Shah, Molly",
+               "name": "Molly Shah",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Shah, Naymit and Shah, Sarah. ",
+               "biography": "She is the daughter of Naymit Shah and Sarah Shah. ",
                "gender": "female"
               }
 
@@ -835,31 +835,31 @@
         }
 ,        {
          "display_num": "5.",
-         "name": "Mehta, Kibabhai",
+         "name": "Kibabhai Mehta",
          "spouse": "false",
          "born": "",
          "died": "",
-         "biography": "He is the son of Mehta, Lavji. He married Mehta, Harakh. ",
+         "biography": "He was the son of Lavji Mehta. He married Harakh Mehta. ",
          "gender": "male",
         "children": [
         {
          "display_num": "sp.",
-         "name": "Mehta, Harakh",
+         "name": "Harakh Mehta",
          "spouse": "true",
          "born": "",
          "died": "",
          "marriage": "",
          "divorce": "",
-         "biography": "She married Mehta, Kibabhai. ",
+         "biography": "She married Kibabhai Mehta. ",
          "gender": "female",
          "children": [
           {
            "display_num": "6.",
-           "name": "Mehta, Kashiben",
+           "name": "Kashiben Mehta",
            "spouse": "false",
            "born": "",
            "died": "",
-           "biography": "She is the daughter of Mehta, Kibabhai and Mehta, Harakh. She had a relationship with Unknown. ",
+           "biography": "She is the daughter of Kibabhai Mehta and Harakh Mehta. She had a relationship with Unknown. ",
            "gender": "female",
           "children": [
           {
@@ -870,80 +870,80 @@
            "children": [
             {
              "display_num": "7.",
-             "name": ", Taraben",
+             "name": "Taraben",
              "spouse": "false",
              "born": "",
              "died": "",
-             "biography": "She is the daughter of Mehta, Kashiben. ",
+             "biography": "She is the daughter of Kashiben Mehta. ",
              "gender": "female"
             }
 ,            {
              "display_num": "7.",
-             "name": "Muchhala, Chandaben",
+             "name": "Chandaben Muchhala",
              "spouse": "false",
              "born": "",
              "died": "",
-             "biography": "She is the daughter of Mehta, Kashiben. She married Muchhala, Chandulal. ",
+             "biography": "She is the daughter of Kashiben Mehta. She married Chandulal Muchhala. ",
              "gender": "female",
             "children": [
             {
              "display_num": "sp.",
-             "name": "Muchhala, Chandulal",
+             "name": "Chandulal Muchhala",
              "spouse": "true",
              "born": "",
              "died": "",
              "marriage": "",
              "divorce": "",
-             "biography": "He married Muchhala, Chandaben. ",
+             "biography": "He married Chandaben Muchhala. ",
              "gender": "male",
              "children": [
               {
                "display_num": "8.",
-               "name": "Muchhala, Pradip",
+               "name": "Pradip Muchhala",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "He is the son of Muchhala, Chandulal and Muchhala, Chandaben. He married Muchhala, Raksha. ",
+               "biography": "He is the son of Chandulal Muchhala and Chandaben Muchhala. He married Raksha Muchhala. ",
                "gender": "male",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Muchhala, Raksha",
+               "name": "Raksha Muchhala",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "She married Muchhala, Pradip. ",
+               "biography": "She married Pradip Muchhala. ",
                "gender": "female",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Muchhala, Bhumika",
+                 "name": "Bhumika Muchhala",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Muchhala, Pradip and Muchhala, Raksha. She married , Andrew. ",
+                 "biography": "She is the daughter of Pradip Muchhala and Raksha Muchhala. She married Andrew. ",
                  "gender": "female",
                 "children": [
                 {
                  "display_num": "sp.",
-                 "name": ", Andrew",
+                 "name": "Andrew",
                  "spouse": "true",
                  "born": "",
                  "died": "",
                  "marriage": "",
                  "divorce": "",
-                 "biography": "He married Muchhala, Bhumika. ",
+                 "biography": "He married Bhumika Muchhala. ",
                  "gender": "male",
                  "children": [
                   {
                    "display_num": "10.",
-                   "name": ", Amara",
+                   "name": "Amara",
                    "spouse": "false",
                    "born": "",
                    "died": "",
-                   "biography": "She is the daughter of , Andrew and Muchhala, Bhumika. ",
+                   "biography": "She is the daughter of Andrew and Bhumika Muchhala. ",
                    "gender": "female"
                   }
 
@@ -953,31 +953,31 @@
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Muchhala, Ruchika",
+                 "name": "Ruchika Muchhala",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Muchhala, Pradip and Muchhala, Raksha. She married Gnesin, John. ",
+                 "biography": "She is the daughter of Pradip Muchhala and Raksha Muchhala. She married John Gnesin. ",
                  "gender": "female",
                 "children": [
                 {
                  "display_num": "sp.",
-                 "name": "Gnesin, John",
+                 "name": "John Gnesin",
                  "spouse": "true",
                  "born": "",
                  "died": "",
                  "marriage": "",
                  "divorce": "",
-                 "biography": "He married Muchhala, Ruchika. ",
+                 "biography": "He married Ruchika Muchhala. ",
                  "gender": "male",
                  "children": [
                   {
                    "display_num": "10.",
-                   "name": "Gnesin, Aria",
+                   "name": "Aria Gnesin",
                    "spouse": "false",
                    "born": "",
                    "died": "",
-                   "biography": "She is the daughter of Gnesin, John and Muchhala, Ruchika. ",
+                   "biography": "She is the daughter of John Gnesin and Ruchika Muchhala. ",
                    "gender": "female"
                   }
 
@@ -992,60 +992,60 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Muchhala, Geeta",
+               "name": "Geeta Muchhala",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Muchhala, Chandulal and Muchhala, Chandaben. She married Parikh, Subodh. ",
+               "biography": "She is the daughter of Chandulal Muchhala and Chandaben Muchhala. She married Subodh Parikh. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Parikh, Subodh",
+               "name": "Subodh Parikh",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Muchhala, Geeta. ",
+               "biography": "He married Geeta Muchhala. ",
                "gender": "male",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Parikh, Kalpesh",
+                 "name": "Kalpesh Parikh",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Parikh, Subodh and Muchhala, Geeta. He married Parikh, Smita. ",
+                 "biography": "He is the son of Subodh Parikh and Geeta Muchhala. He married Smita Parikh. ",
                  "gender": "male",
                 "children": [
                 {
                  "display_num": "sp.",
-                 "name": "Parikh, Smita",
+                 "name": "Smita Parikh",
                  "spouse": "true",
                  "born": "",
                  "died": "",
                  "marriage": "",
                  "divorce": "",
-                 "biography": "She married Parikh, Kalpesh. ",
+                 "biography": "She married Kalpesh Parikh. ",
                  "gender": "female",
                  "children": [
                   {
                    "display_num": "10.",
-                   "name": "Parikh, Isha",
+                   "name": "Isha Parikh",
                    "spouse": "false",
                    "born": "",
                    "died": "",
-                   "biography": "She is the daughter of Parikh, Kalpesh and Parikh, Smita. ",
+                   "biography": "She is the daughter of Kalpesh Parikh and Smita Parikh. ",
                    "gender": "female"
                   }
 ,                  {
                    "display_num": "10.",
-                   "name": "Parikh, Parin",
+                   "name": "Parin Parikh",
                    "spouse": "false",
                    "born": "",
                    "died": "",
-                   "biography": "He is the son of Parikh, Kalpesh and Parikh, Smita. ",
+                   "biography": "He is the son of Kalpesh Parikh and Smita Parikh. ",
                    "gender": "male"
                   }
 
@@ -1055,31 +1055,31 @@
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Parikh, Viral",
+                 "name": "Viral Parikh",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Parikh, Subodh and Muchhala, Geeta. He married Parikh, Smruti. ",
+                 "biography": "He is the son of Subodh Parikh and Geeta Muchhala. He married Smruti Parikh. ",
                  "gender": "male",
                 "children": [
                 {
                  "display_num": "sp.",
-                 "name": "Parikh, Smruti",
+                 "name": "Smruti Parikh",
                  "spouse": "true",
                  "born": "",
                  "died": "",
                  "marriage": "",
                  "divorce": "",
-                 "biography": "She married Parikh, Viral. ",
+                 "biography": "She married Viral Parikh. ",
                  "gender": "female",
                  "children": [
                   {
                    "display_num": "10.",
-                   "name": "Parikh, Vivaan",
+                   "name": "Vivaan Parikh",
                    "spouse": "false",
                    "born": "",
                    "died": "",
-                   "biography": "He is the son of Parikh, Viral and Parikh, Smruti. ",
+                   "biography": "He is the son of Viral Parikh and Smruti Parikh. ",
                    "gender": "male"
                   }
 
@@ -1094,72 +1094,72 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Muchhala, Kiran",
+               "name": "Kiran Muchhala",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Muchhala, Chandulal and Muchhala, Chandaben. She married Meswani, Harish. ",
+               "biography": "She is the daughter of Chandulal Muchhala and Chandaben Muchhala. She married Harish Meswani. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Meswani, Harish",
+               "name": "Harish Meswani",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Muchhala, Kiran. ",
+               "biography": "He married Kiran Muchhala. ",
                "gender": "male",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Meswani, Sehul",
+                 "name": "Sehul Meswani",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Meswani, Harish and Muchhala, Kiran. He married Meswani, Kamini. ",
+                 "biography": "He is the son of Harish Meswani and Kiran Muchhala. He married Kamini Meswani. ",
                  "gender": "male",
                 "children": [
                 {
                  "display_num": "sp.",
-                 "name": "Meswani, Kamini",
+                 "name": "Kamini Meswani",
                  "spouse": "true",
                  "born": "",
                  "died": "",
                  "marriage": "",
                  "divorce": "",
-                 "biography": "She married Meswani, Sehul. ",
+                 "biography": "She married Sehul Meswani. ",
                  "gender": "female"                }
                 ]
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Meswani, Nikita",
+                 "name": "Nikita Meswani",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Meswani, Harish and Muchhala, Kiran. She married Joshi, Samir. ",
+                 "biography": "She is the daughter of Harish Meswani and Kiran Muchhala. She married Samir Joshi. ",
                  "gender": "female",
                 "children": [
                 {
                  "display_num": "sp.",
-                 "name": "Joshi, Samir",
+                 "name": "Samir Joshi",
                  "spouse": "true",
                  "born": "",
                  "died": "",
                  "marriage": "",
                  "divorce": "",
-                 "biography": "He married Meswani, Nikita. ",
+                 "biography": "He married Nikita Meswani. ",
                  "gender": "male",
                  "children": [
                   {
                    "display_num": "10.",
-                   "name": "Joshi, Maahi",
+                   "name": "Maahi Joshi",
                    "spouse": "false",
                    "born": "",
                    "died": "",
-                   "biography": "She is the daughter of Joshi, Samir and Meswani, Nikita. ",
+                   "biography": "She is the daughter of Samir Joshi and Nikita Meswani. ",
                    "gender": "female"
                   }
 
@@ -1174,51 +1174,51 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Muchhala, Raksha",
+               "name": "Raksha Muchhala",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Muchhala, Chandulal and Muchhala, Chandaben. She married Choksey, Ajay. ",
+               "biography": "She is the daughter of Chandulal Muchhala and Chandaben Muchhala. She married Ajay Choksey. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Choksey, Ajay",
+               "name": "Ajay Choksey",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Muchhala, Raksha. ",
+               "biography": "He married Raksha Muchhala. ",
                "gender": "male",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Choksey, Ankur",
+                 "name": "Ankur Choksey",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Choksey, Ajay and Muchhala, Raksha. He married Choksey, Sheetal. ",
+                 "biography": "He is the son of Ajay Choksey and Raksha Muchhala. He married Sheetal Choksey. ",
                  "gender": "male",
                 "children": [
                 {
                  "display_num": "sp.",
-                 "name": "Choksey, Sheetal",
+                 "name": "Sheetal Choksey",
                  "spouse": "true",
                  "born": "",
                  "died": "",
                  "marriage": "",
                  "divorce": "",
-                 "biography": "She married Choksey, Ankur. ",
+                 "biography": "She married Ankur Choksey. ",
                  "gender": "female",
                  "children": [
                   {
                    "display_num": "10.",
-                   "name": "Choksey, Hridaan",
+                   "name": "Hridaan Choksey",
                    "spouse": "false",
                    "born": "",
                    "died": "",
-                   "biography": "He is the son of Choksey, Ankur and Choksey, Sheetal. ",
+                   "biography": "He is the son of Ankur Choksey and Sheetal Choksey. ",
                    "gender": "male"
                   }
 
@@ -1228,22 +1228,22 @@
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Choksey, Mansi",
+                 "name": "Mansi Choksey",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Choksey, Ajay and Muchhala, Raksha. She married Vyas, Viral. ",
+                 "biography": "She is the daughter of Ajay Choksey and Raksha Muchhala. She married Viral Vyas. ",
                  "gender": "female",
                 "children": [
                 {
                  "display_num": "sp.",
-                 "name": "Vyas, Viral",
+                 "name": "Viral Vyas",
                  "spouse": "true",
                  "born": "",
                  "died": "",
                  "marriage": "",
                  "divorce": "",
-                 "biography": "He married Choksey, Mansi. ",
+                 "biography": "He married Mansi Choksey. ",
                  "gender": "male"                }
                 ]
                 }
@@ -1254,51 +1254,51 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Muchhala, Bhavna",
+               "name": "Bhavna Muchhala",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Muchhala, Chandulal and Muchhala, Chandaben. She married Shah, Yatin. ",
+               "biography": "She is the daughter of Chandulal Muchhala and Chandaben Muchhala. She married Yatin Shah. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Shah, Yatin",
+               "name": "Yatin Shah",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Muchhala, Bhavna. ",
+               "biography": "He married Bhavna Muchhala. ",
                "gender": "male",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Shah, Vinit",
+                 "name": "Vinit Shah",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Shah, Yatin and Muchhala, Bhavna. He married Shah, Rima. ",
+                 "biography": "He is the son of Yatin Shah and Bhavna Muchhala. He married Rima Shah. ",
                  "gender": "male",
                 "children": [
                 {
                  "display_num": "sp.",
-                 "name": "Shah, Rima",
+                 "name": "Rima Shah",
                  "spouse": "true",
                  "born": "",
                  "died": "",
                  "marriage": "",
                  "divorce": "",
-                 "biography": "She married Shah, Vinit. ",
+                 "biography": "She married Vinit Shah. ",
                  "gender": "female",
                  "children": [
                   {
                    "display_num": "10.",
-                   "name": "Shah, Devika",
+                   "name": "Devika Shah",
                    "spouse": "false",
                    "born": "",
                    "died": "",
-                   "biography": "She is the daughter of Shah, Vinit and Shah, Rima. ",
+                   "biography": "She is the daughter of Vinit Shah and Rima Shah. ",
                    "gender": "female"
                   }
 
@@ -1313,51 +1313,51 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Muchhala, Atul",
+               "name": "Atul Muchhala",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "He is the son of Muchhala, Chandulal and Muchhala, Chandaben. He married Muchhala, Nipa. ",
+               "biography": "He is the son of Chandulal Muchhala and Chandaben Muchhala. He married Nipa Muchhala. ",
                "gender": "male",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Muchhala, Nipa",
+               "name": "Nipa Muchhala",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "She married Muchhala, Atul. ",
+               "biography": "She married Atul Muchhala. ",
                "gender": "female",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Muchhala, Anish",
+                 "name": "Anish Muchhala",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Muchhala, Atul and Muchhala, Nipa. He married Muchhala, Rachel. ",
+                 "biography": "He is the son of Atul Muchhala and Nipa Muchhala. He married Rachel Muchhala. ",
                  "gender": "male",
                 "children": [
                 {
                  "display_num": "sp.",
-                 "name": "Muchhala, Rachel",
+                 "name": "Rachel Muchhala",
                  "spouse": "true",
                  "born": "",
                  "died": "",
                  "marriage": "",
                  "divorce": "",
-                 "biography": "She married Muchhala, Anish. ",
+                 "biography": "She married Anish Muchhala. ",
                  "gender": "female",
                  "children": [
                   {
                    "display_num": "10.",
-                   "name": "Muchhala, Milo",
+                   "name": "Milo Muchhala",
                    "spouse": "false",
                    "born": "",
                    "died": "",
-                   "biography": "He is the son of Muchhala, Anish and Muchhala, Rachel. ",
+                   "biography": "He is the son of Anish Muchhala and Rachel Muchhala. ",
                    "gender": "male"
                   }
 
@@ -1367,11 +1367,11 @@
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Muchhala, Nishita",
+                 "name": "Nishita Muchhala",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Muchhala, Atul and Muchhala, Nipa. ",
+                 "biography": "She is the daughter of Atul Muchhala and Nipa Muchhala. ",
                  "gender": "female"
                 }
 
@@ -1391,71 +1391,71 @@
           }
 ,          {
            "display_num": "6.",
-           "name": "Mehta, Vithaldas",
+           "name": "Vithaldas Mehta",
            "spouse": "false",
            "born": "",
            "died": "",
-           "biography": "He is the son of Mehta, Kibabhai and Mehta, Harakh. He married Solanki, Santokben. ",
+           "biography": "He was the son of Kibabhai Mehta and Harakh Mehta. He married Santokben Solanki. ",
            "gender": "male",
           "children": [
           {
            "display_num": "sp.",
-           "name": "Solanki, Santokben",
+           "name": "Santokben Solanki",
            "spouse": "true",
            "born": "",
            "died": "",
            "marriage": "",
            "divorce": "",
-           "biography": "She married Mehta, Vithaldas. ",
+           "biography": "She married Vithaldas Mehta. ",
            "gender": "female",
            "children": [
             {
              "display_num": "7.",
-             "name": "Shah, Dhirubhai",
+             "name": "Dhirajlal Shah",
              "spouse": "false",
              "born": "",
              "died": "",
-             "biography": "He is the son of Mehta, Vithaldas and Solanki, Santokben. He married Shah, Chandrakala. ",
+             "biography": "He is the son of Vithaldas Mehta and Santokben Solanki. He married Chandrakala Shah. ",
              "gender": "male",
             "children": [
             {
              "display_num": "sp.",
-             "name": "Shah, Chandrakala",
+             "name": "Chandrakala Shah",
              "spouse": "true",
              "born": "",
              "died": "",
              "marriage": "",
              "divorce": "",
-             "biography": "She married Shah, Dhirubhai. ",
+             "biography": "She married Dhirajlal Shah. ",
              "gender": "female",
              "children": [
               {
                "display_num": "8.",
-               "name": "Shah, Kalpana",
+               "name": "Kalpana Shah",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Shah, Dhirubhai and Shah, Chandrakala. She married Modi, Ramesh. ",
+               "biography": "She is the daughter of Dhirajlal Shah and Chandrakala Shah. She married Ramesh Modi. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Modi, Ramesh",
+               "name": "Ramesh Modi",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Shah, Kalpana. ",
+               "biography": "He married Kalpana Shah. ",
                "gender": "male",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Modi, Dhara",
+                 "name": "Dhara Modi",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Modi, Ramesh and Shah, Kalpana. ",
+                 "biography": "She is the daughter of Ramesh Modi and Kalpana Shah. ",
                  "gender": "female"
                 }
 
@@ -1470,49 +1470,49 @@
             }
 ,            {
              "display_num": "7.",
-             "name": "Shah, Muktaben",
+             "name": "Muktaben Shah",
              "spouse": "false",
              "born": "",
              "died": "",
-             "biography": "She is the daughter of Mehta, Vithaldas and Solanki, Santokben. She married Doshi, Paivachand. ",
+             "biography": "She is the daughter of Vithaldas Mehta and Santokben Solanki. She married Paivachand Doshi. ",
              "gender": "female",
             "children": [
             {
              "display_num": "sp.",
-             "name": "Doshi, Paivachand",
+             "name": "Paivachand Doshi",
              "spouse": "true",
              "born": "",
              "died": "",
              "marriage": "",
              "divorce": "",
-             "biography": "He married Shah, Muktaben. ",
+             "biography": "He married Muktaben Shah. ",
              "gender": "male",
              "children": [
               {
                "display_num": "8.",
-               "name": "Doshi, Kusum",
+               "name": "Kusum Doshi",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Doshi, Paivachand and Shah, Muktaben. ",
+               "biography": "She is the daughter of Paivachand Doshi and Muktaben Shah. ",
                "gender": "female"
               }
 ,              {
                "display_num": "8.",
-               "name": "Doshi, Natubhai",
+               "name": "Natubhai Doshi",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "He is the son of Doshi, Paivachand and Shah, Muktaben. ",
+               "biography": "He is the son of Paivachand Doshi and Muktaben Shah. ",
                "gender": "male"
               }
 ,              {
                "display_num": "8.",
-               "name": "Doshi, Nayna",
+               "name": "Nayna Doshi",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Doshi, Paivachand and Shah, Muktaben. She had a relationship with Unknown. She married Mehta, Ashok. ",
+               "biography": "She is the daughter of Paivachand Doshi and Muktaben Shah. She had a relationship with Unknown. She married Ashok Mehta. ",
                "gender": "female",
               "children": [
               {
@@ -1523,11 +1523,11 @@
                "children": [
                 {
                  "display_num": "9.",
-                 "name": ", Ankur",
+                 "name": "Ankur",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Doshi, Nayna. ",
+                 "biography": "He is the son of Nayna Doshi. ",
                  "gender": "male"
                 }
 
@@ -1535,42 +1535,42 @@
               }
 ,              {
                "display_num": "sp.",
-               "name": "Mehta, Ashok",
+               "name": "Ashok Mehta",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Doshi, Nayna. ",
+               "biography": "He married Nayna Doshi. ",
                "gender": "male",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Mehta, Ankur",
+                 "name": "Ankur Mehta",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Mehta, Ashok and Doshi, Nayna. He married Vora, Pooja. ",
+                 "biography": "He is the son of Ashok Mehta and Nayna Doshi. He married Pooja Vora. ",
                  "gender": "male",
                 "children": [
                 {
                  "display_num": "sp.",
-                 "name": "Vora, Pooja",
+                 "name": "Pooja Vora",
                  "spouse": "true",
                  "born": "",
                  "died": "",
                  "marriage": "",
                  "divorce": "",
-                 "biography": "She married Mehta, Ankur. ",
+                 "biography": "She married Ankur Mehta. ",
                  "gender": "female",
                  "children": [
                   {
                    "display_num": "10.",
-                   "name": "Mehta, Vansh",
+                   "name": "Vansh Mehta",
                    "spouse": "false",
                    "born": "",
                    "died": "",
-                   "biography": "He is the son of Mehta, Ankur and Vora, Pooja. ",
+                   "biography": "He is the son of Ankur Mehta and Pooja Vora. ",
                    "gender": "male"
                   }
 
@@ -1585,52 +1585,61 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Doshi, Daksha",
+               "name": "Daksha Doshi",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Doshi, Paivachand and Shah, Muktaben. She married Solanki, Sailesh. ",
+               "biography": "She is the daughter of Paivachand Doshi and Muktaben Shah. She married Sailesh Solanki. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Solanki, Sailesh",
+               "name": "Sailesh Solanki",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Doshi, Daksha. ",
+               "biography": "He married Daksha Doshi. ",
                "gender": "male",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Solanki, Bhavin",
+                 "name": "Bhavin Solanki",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Solanki, Sailesh and Doshi, Daksha. He married Solanki, Hemali. ",
+                 "biography": "He is the son of Sailesh Solanki and Daksha Doshi. He married Hemali Solanki. ",
                  "gender": "male",
                 "children": [
                 {
                  "display_num": "sp.",
-                 "name": "Solanki, Hemali",
+                 "name": "Hemali Solanki",
                  "spouse": "true",
                  "born": "",
                  "died": "",
                  "marriage": "",
                  "divorce": "",
-                 "biography": "She married Solanki, Bhavin. ",
+                 "biography": "She married Bhavin Solanki. ",
                  "gender": "female",
                  "children": [
                   {
                    "display_num": "10.",
-                   "name": "Solanki, Kahan",
+                   "name": "Kahan Solanki",
                    "spouse": "false",
                    "born": "",
                    "died": "",
-                   "biography": "This person is the child of Solanki, Bhavin and Solanki, Hemali. ",
+                   "biography": "This person is the child of Bhavin Solanki and Hemali Solanki. ",
                    "gender": "unknown"
+                  }
+,                  {
+                   "display_num": "10.",
+                   "name": "TBC Solanki",
+                   "spouse": "false",
+                   "born": "",
+                   "died": "",
+                   "biography": "She is the daughter of Bhavin Solanki and Hemali Solanki. ",
+                   "gender": "female"
                   }
 
                  ]
@@ -1639,11 +1648,11 @@
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Solanki, Kinar",
+                 "name": "Kinar Solanki",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Solanki, Sailesh and Doshi, Daksha. ",
+                 "biography": "She is the daughter of Sailesh Solanki and Daksha Doshi. ",
                  "gender": "female"
                 }
 
@@ -1653,22 +1662,22 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Doshi, Sudha",
+               "name": "Sudha Doshi",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Doshi, Paivachand and Shah, Muktaben. She married Parekh, Manoj. ",
+               "biography": "She is the daughter of Paivachand Doshi and Muktaben Shah. She married Manoj Parekh. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Parekh, Manoj",
+               "name": "Manoj Parekh",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Doshi, Sudha. ",
+               "biography": "He married Sudha Doshi. ",
                "gender": "male"              }
               ]
               }
@@ -1679,69 +1688,69 @@
             }
 ,            {
              "display_num": "7.",
-             "name": "Shah, Ramnik",
+             "name": "Ramnik Shah",
              "spouse": "false",
              "born": "",
              "died": "",
-             "biography": "He was the son of Mehta, Vithaldas and Solanki, Santokben. He married Shah, Lila. He married Shah, Manjulal on 2002-01-01. ",
+             "biography": "He is the son of Vithaldas Mehta and Santokben Solanki. He married Lila Shah. He married Manjulal Shah on 25/12/2001. ",
              "gender": "male",
             "children": [
             {
              "display_num": "sp.",
-             "name": "Shah, Lila",
+             "name": "Lila Shah",
              "spouse": "true",
              "born": "",
-             "died": "d. 2000-01-01",
+             "died": "d. 5/10/1999",
              "marriage": "",
              "divorce": "",
-             "biography": "She died on 2000-01-01.  She married Shah, Ramnik. ",
+             "biography": "She died on 5/10/1999.  She married Ramnik Shah. ",
              "gender": "female",
              "children": [
               {
                "display_num": "8.",
-               "name": "Shah, Rajiv",
+               "name": "Rajiv Shah",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "He is the son of Shah, Ramnik and Shah, Lila. He married , Kamille. ",
+               "biography": "He is the son of Ramnik Shah and Lila Shah. He married Kamille Shah. ",
                "gender": "male",
               "children": [
               {
                "display_num": "sp.",
-               "name": ", Kamille",
+               "name": "Kamille Shah",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "She married Shah, Rajiv. ",
+               "biography": "She married Rajiv Shah. ",
                "gender": "female",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Shah, Annika",
+                 "name": "Annika Shah",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Shah, Rajiv and , Kamille. ",
+                 "biography": "She is the daughter of Rajiv Shah and Kamille Shah. ",
                  "gender": "female"
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Shah, Rohan",
+                 "name": "Rohan Shah",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Shah, Rajiv and , Kamille. ",
+                 "biography": "He is the son of Rajiv Shah and Kamille Shah. ",
                  "gender": "male"
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Shah, Anushka",
+                 "name": "Anushka Shah",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Shah, Rajiv and , Kamille. ",
+                 "biography": "She is the daughter of Rajiv Shah and Kamille Shah. ",
                  "gender": "female"
                 }
 
@@ -1751,49 +1760,49 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Shah, Arti",
+               "name": "Arti Shah",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Shah, Ramnik and Shah, Lila. She married Naganathan, Vasi. ",
+               "biography": "She is the daughter of Ramnik Shah and Lila Shah. She married Vasikaran Naganathan. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Naganathan, Vasi",
+               "name": "Vasikaran Naganathan",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Shah, Arti. ",
+               "biography": "He married Arti Shah. ",
                "gender": "male",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Naganathan, Uma",
+                 "name": "Uma Naganathan",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Naganathan, Vasi and Shah, Arti. ",
+                 "biography": "She is the daughter of Vasikaran Naganathan and Arti Shah. ",
                  "gender": "female"
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Naganathan, Sanjan",
+                 "name": "Sanjan Naganathan",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Naganathan, Vasi and Shah, Arti. ",
+                 "biography": "He is the son of Vasikaran Naganathan and Arti Shah. ",
                  "gender": "male"
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Naganathan, Jivan",
+                 "name": "Jivan Naganathan",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Naganathan, Vasi and Shah, Arti. ",
+                 "biography": "He is the son of Vasikaran Naganathan and Arti Shah. ",
                  "gender": "male"
                 }
 
@@ -1806,81 +1815,81 @@
             }
 ,            {
              "display_num": "sp.",
-             "name": "Shah, Manjulal",
+             "name": "Manjulal Shah",
              "spouse": "true",
              "born": "",
              "died": "",
-             "marriage": "m. 2002-01-01",
+             "marriage": "m. 25/12/2001",
              "divorce": "",
-             "biography": "She married Shah, Ramnik on 2002-01-01. ",
+             "biography": "She married Ramnik Shah on 25/12/2001. ",
              "gender": "female"            }
             ]
             }
 ,            {
              "display_num": "7.",
-             "name": "Shah, Champak",
+             "name": "Champak Shah",
              "spouse": "false",
              "born": "",
              "died": "",
-             "biography": "He is the son of Mehta, Vithaldas and Solanki, Santokben. He married Shah, Jyostnaben. ",
+             "biography": "He is the son of Vithaldas Mehta and Santokben Solanki. He married Jyostnaben Shah. ",
              "gender": "male",
             "children": [
             {
              "display_num": "sp.",
-             "name": "Shah, Jyostnaben",
+             "name": "Jyostnaben Shah",
              "spouse": "true",
              "born": "",
              "died": "",
              "marriage": "",
              "divorce": "",
-             "biography": "She married Shah, Champak. ",
+             "biography": "She married Champak Shah. ",
              "gender": "female",
              "children": [
               {
                "display_num": "8.",
-               "name": "Shah, Anjana",
+               "name": "Anjana Shah",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Shah, Champak and Shah, Jyostnaben. She married Sharma, Rajesh. ",
+               "biography": "She is the daughter of Champak Shah and Jyostnaben Shah. She married Rajesh Sharma. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Sharma, Rajesh",
+               "name": "Rajesh Sharma",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Shah, Anjana. ",
+               "biography": "He married Anjana Shah. ",
                "gender": "male",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Sharma, Meghan",
+                 "name": "Meghan Sharma",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Sharma, Rajesh and Shah, Anjana. ",
+                 "biography": "She is the daughter of Rajesh Sharma and Anjana Shah. ",
                  "gender": "female"
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Sharma, Amber",
+                 "name": "Amber Sharma",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Sharma, Rajesh and Shah, Anjana. ",
+                 "biography": "She is the daughter of Rajesh Sharma and Anjana Shah. ",
                  "gender": "female"
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Sharma, Shaan",
+                 "name": "Shaan Sharma",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Sharma, Rajesh and Shah, Anjana. ",
+                 "biography": "He is the son of Rajesh Sharma and Anjana Shah. ",
                  "gender": "male"
                 }
 
@@ -1890,49 +1899,49 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Shah, Arpana",
+               "name": "Arpana Shah",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Shah, Champak and Shah, Jyostnaben. She married Goel, Arurag. ",
+               "biography": "She is the daughter of Champak Shah and Jyostnaben Shah. She married Arurag Goel. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Goel, Arurag",
+               "name": "Arurag Goel",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Shah, Arpana. ",
+               "biography": "He married Arpana Shah. ",
                "gender": "male",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Goel, Devan",
+                 "name": "Devan Goel",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Goel, Arurag and Shah, Arpana. ",
+                 "biography": "He is the son of Arurag Goel and Arpana Shah. ",
                  "gender": "male"
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Goel, Dhruv",
+                 "name": "Dhruv Goel",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Goel, Arurag and Shah, Arpana. ",
+                 "biography": "He is the son of Arurag Goel and Arpana Shah. ",
                  "gender": "male"
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Goel, Reya",
+                 "name": "Reya Goel",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Goel, Arurag and Shah, Arpana. ",
+                 "biography": "She is the daughter of Arurag Goel and Arpana Shah. ",
                  "gender": "female"
                 }
 
@@ -1947,51 +1956,51 @@
             }
 ,            {
              "display_num": "7.",
-             "name": "Shah, Induben",
+             "name": "Induben Shah",
              "spouse": "false",
              "born": "",
              "died": "",
-             "biography": "She is the daughter of Mehta, Vithaldas and Solanki, Santokben. She married Shah, Ratilal. ",
+             "biography": "She is the daughter of Vithaldas Mehta and Santokben Solanki. She married Ratilal Shah. ",
              "gender": "female",
             "children": [
             {
              "display_num": "sp.",
-             "name": "Shah, Ratilal",
+             "name": "Ratilal Shah",
              "spouse": "true",
              "born": "",
              "died": "",
              "marriage": "",
              "divorce": "",
-             "biography": "He married Shah, Induben. ",
+             "biography": "He married Induben Shah. ",
              "gender": "male",
              "children": [
               {
                "display_num": "8.",
-               "name": "Shah, Manish",
+               "name": "Manish Shah",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "He is the son of Shah, Ratilal and Shah, Induben. He married Shah, Nipa. ",
+               "biography": "He is the son of Ratilal Shah and Induben Shah. He married Nipa Shah. ",
                "gender": "male",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Shah, Nipa",
+               "name": "Nipa Shah",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "She married Shah, Manish. ",
+               "biography": "She married Manish Shah. ",
                "gender": "female",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Shah, Chika",
+                 "name": "Chika Shah",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Shah, Manish and Shah, Nipa. ",
+                 "biography": "She is the daughter of Manish Shah and Nipa Shah. ",
                  "gender": "female"
                 }
 
@@ -2001,40 +2010,40 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Shah, Meera",
+               "name": "Meera Shah",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Shah, Ratilal and Shah, Induben. She had an unmarried relationship with Doshi, Ashwin. ",
+               "biography": "She is the daughter of Ratilal Shah and Induben Shah. She had an unmarried relationship with Ashwin Doshi. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Doshi, Ashwin",
+               "name": "Ashwin Doshi",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "div. ",
-               "biography": "He had an unmarried relationship with Shah, Meera. ",
+               "biography": "He had an unmarried relationship with Meera Shah. ",
                "gender": "male",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Doshi, Yesha",
+                 "name": "Yesha Doshi",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Doshi, Ashwin and Shah, Meera. ",
+                 "biography": "She is the daughter of Ashwin Doshi and Meera Shah. ",
                  "gender": "female"
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Doshi, Son (TBC)",
+                 "name": "Son (TBC) Doshi",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Doshi, Ashwin and Shah, Meera. ",
+                 "biography": "He is the son of Ashwin Doshi and Meera Shah. ",
                  "gender": "male"
                 }
 
@@ -2044,31 +2053,31 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Shah, Nilesh",
+               "name": "Nilesh Shah",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "He is the son of Shah, Ratilal and Shah, Induben. He married , Nisha. ",
+               "biography": "He is the son of Ratilal Shah and Induben Shah. He married Nisha. ",
                "gender": "male",
               "children": [
               {
                "display_num": "sp.",
-               "name": ", Nisha",
+               "name": "Nisha",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "She married Shah, Nilesh. ",
+               "biography": "She married Nilesh Shah. ",
                "gender": "female",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Shah, Dhruv",
+                 "name": "Dhruv Shah",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Shah, Nilesh and , Nisha. ",
+                 "biography": "He is the son of Nilesh Shah and Nisha. ",
                  "gender": "male"
                 }
 
@@ -2078,31 +2087,31 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Shah, Nisha",
+               "name": "Nisha Shah",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Shah, Ratilal and Shah, Induben. She married Vora, Vinnay. ",
+               "biography": "She is the daughter of Ratilal Shah and Induben Shah. She married Vinnay Vora. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Vora, Vinnay",
+               "name": "Vinnay Vora",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Shah, Nisha. ",
+               "biography": "He married Nisha Shah. ",
                "gender": "male",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Vora, Riya",
+                 "name": "Riya Vora",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Vora, Vinnay and Shah, Nisha. ",
+                 "biography": "She is the daughter of Vinnay Vora and Nisha Shah. ",
                  "gender": "female"
                 }
 
@@ -2117,60 +2126,60 @@
             }
 ,            {
              "display_num": "7.",
-             "name": "Shah, Chandrakant",
+             "name": "Chandrakant Shah",
              "spouse": "false",
-             "born": "",
+             "born": "b. 2/1950",
              "died": "",
-             "biography": "He is the son of Mehta, Vithaldas and Solanki, Santokben. He married Shah, Karuna. ",
+             "biography": "Chandrakant was born in 2/1950.  He is the son of Vithaldas Mehta and Santokben Solanki. He married Karuna Shah. ",
              "gender": "male",
             "children": [
             {
              "display_num": "sp.",
-             "name": "Shah, Karuna",
+             "name": "Karuna Shah",
              "spouse": "true",
              "born": "",
              "died": "",
              "marriage": "",
              "divorce": "",
-             "biography": "She married Shah, Chandrakant. ",
+             "biography": "She married Chandrakant Shah. ",
              "gender": "female",
              "children": [
               {
                "display_num": "8.",
-               "name": "Shah, Sanjiv",
+               "name": "Sanjiv Shah",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "He is the son of Shah, Chandrakant and Shah, Karuna. He married Holman, Rebecca on 2012-03-24. ",
+               "biography": "He is the son of Chandrakant Shah and Karuna Shah. He married Rebecca Holman on 24/3/2012. ",
                "gender": "male",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Holman, Rebecca",
+               "name": "Rebecca Holman",
                "spouse": "true",
                "born": "b. ",
                "died": "",
-               "marriage": "m. 2012-03-24",
-               "divorce": "div. 2023-01-01",
-               "biography": "She married Shah, Sanjiv on 2012-03-24. ",
+               "marriage": "m. 24/3/2012",
+               "divorce": "div. 1/1/2023",
+               "biography": "She married Sanjiv Shah on 24/3/2012. ",
                "gender": "female",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Shah, Samuel",
+                 "name": "Samuel Shah",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Shah, Sanjiv and Holman, Rebecca. ",
+                 "biography": "He is the son of Sanjiv Shah and Rebecca Holman. ",
                  "gender": "male"
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Shah, Amali",
+                 "name": "Amali Shah",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Shah, Sanjiv and Holman, Rebecca. ",
+                 "biography": "She is the daughter of Sanjiv Shah and Rebecca Holman. ",
                  "gender": "female"
                 }
 
@@ -2180,40 +2189,40 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Shah, Rakesh",
+               "name": "Rakesh Shah",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "He is the son of Shah, Chandrakant and Shah, Karuna. He married Shah, Apeksha. ",
+               "biography": "He is the son of Chandrakant Shah and Karuna Shah. He married Apeksha Shah. ",
                "gender": "male",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Shah, Apeksha",
+               "name": "Apeksha Shah",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "She married Shah, Rakesh. ",
+               "biography": "She married Rakesh Shah. ",
                "gender": "female",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Shah, Kiana",
+                 "name": "Kiana Shah",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Shah, Rakesh and Shah, Apeksha. ",
+                 "biography": "She is the daughter of Rakesh Shah and Apeksha Shah. ",
                  "gender": "female"
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Shah, Aarav",
+                 "name": "Aarav Shah",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Shah, Rakesh and Shah, Apeksha. ",
+                 "biography": "He is the son of Rakesh Shah and Apeksha Shah. ",
                  "gender": "male"
                 }
 
@@ -2223,40 +2232,40 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Shah, Roshni",
+               "name": "Roshni Shah",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Shah, Chandrakant and Shah, Karuna. She married Jayanetti, Ravi. ",
+               "biography": "She is the daughter of Chandrakant Shah and Karuna Shah. She married Ravi Jayanetti. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Jayanetti, Ravi",
+               "name": "Ravi Jayanetti",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Shah, Roshni. ",
+               "biography": "He married Roshni Shah. ",
                "gender": "male",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Jayanetti, Ishan",
+                 "name": "Ishan Jayanetti",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Jayanetti, Ravi and Shah, Roshni. ",
+                 "biography": "He is the son of Ravi Jayanetti and Roshni Shah. ",
                  "gender": "male"
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Jayanetti, Liyara",
+                 "name": "Liyara Jayanetti",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Jayanetti, Ravi and Shah, Roshni. ",
+                 "biography": "She is the daughter of Ravi Jayanetti and Roshni Shah. ",
                  "gender": "female"
                 }
 
@@ -2276,107 +2285,107 @@
           }
 ,          {
            "display_num": "6.",
-           "name": "Mehta, Gulaben",
+           "name": "Gulaben Mehta",
            "spouse": "false",
            "born": "",
            "died": "",
-           "biography": "She is the daughter of Mehta, Kibabhai and Mehta, Harakh. ",
+           "biography": "She is the daughter of Kibabhai Mehta and Harakh Mehta. ",
            "gender": "female"
           }
 ,          {
            "display_num": "6.",
-           "name": "Mehta, Amratlal",
+           "name": "Amratlal Mehta",
            "spouse": "false",
            "born": "",
            "died": "",
-           "biography": "He is the son of Mehta, Kibabhai and Mehta, Harakh. ",
+           "biography": "He is the son of Kibabhai Mehta and Harakh Mehta. ",
            "gender": "male"
           }
 ,          {
            "display_num": "6.",
-           "name": "Mehta, Narabdaben",
+           "name": "Narabdaben Mehta",
            "spouse": "false",
            "born": "",
            "died": "",
-           "biography": "She is the daughter of Mehta, Kibabhai and Mehta, Harakh. ",
+           "biography": "She is the daughter of Kibabhai Mehta and Harakh Mehta. ",
            "gender": "female"
           }
 ,          {
            "display_num": "6.",
-           "name": "Mehta, Bhaichandbhai",
+           "name": "Bhaichandbhai Mehta",
            "spouse": "false",
            "born": "",
            "died": "",
-           "biography": "He is the son of Mehta, Kibabhai and Mehta, Harakh. He married Mehta, Kantaben. ",
+           "biography": "He is the son of Kibabhai Mehta and Harakh Mehta. He married Kanta Notaria. ",
            "gender": "male",
           "children": [
           {
            "display_num": "sp.",
-           "name": "Mehta, Kantaben",
+           "name": "Kanta Notaria",
            "spouse": "true",
            "born": "",
            "died": "",
            "marriage": "",
            "divorce": "",
-           "biography": "She married Mehta, Bhaichandbhai. ",
+           "biography": "She married Bhaichandbhai Mehta. ",
            "gender": "female",
            "children": [
             {
              "display_num": "7.",
-             "name": "Shah, Hasuben",
+             "name": "Hasuben Shah",
              "spouse": "false",
              "born": "",
              "died": "",
-             "biography": "She is the daughter of Mehta, Bhaichandbhai and Mehta, Kantaben. She married Shah, Mahesh. ",
+             "biography": "She is the daughter of Bhaichandbhai Mehta and Kanta Notaria. She married Mahesh Shah. ",
              "gender": "female",
             "children": [
             {
              "display_num": "sp.",
-             "name": "Shah, Mahesh",
+             "name": "Mahesh Shah",
              "spouse": "true",
              "born": "",
              "died": "",
              "marriage": "",
              "divorce": "",
-             "biography": "He married Shah, Hasuben. ",
+             "biography": "He married Hasuben Shah. ",
              "gender": "male",
              "children": [
               {
                "display_num": "8.",
-               "name": "Parekh, Tejal",
+               "name": "Tejal Parekh",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Shah, Mahesh and Shah, Hasuben. She married Parekh, Manish. ",
+               "biography": "She is the daughter of Mahesh Shah and Hasuben Shah. She married Manish Parekh. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Parekh, Manish",
+               "name": "Manish Parekh",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Parekh, Tejal. ",
+               "biography": "He married Tejal Parekh. ",
                "gender": "male",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Parekh, Jash",
+                 "name": "Jash Parekh",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Parekh, Manish and Parekh, Tejal. ",
+                 "biography": "She is the daughter of Manish Parekh and Tejal Parekh. ",
                  "gender": "female"
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Parekh, Nilay",
+                 "name": "Nilay Parekh",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Parekh, Manish and Parekh, Tejal. ",
+                 "biography": "She is the daughter of Manish Parekh and Tejal Parekh. ",
                  "gender": "female"
                 }
 
@@ -2386,31 +2395,31 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Shah, Avni",
+               "name": "Avni Shah",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Shah, Mahesh and Shah, Hasuben. She married Shah, Punit. ",
+               "biography": "She is the daughter of Mahesh Shah and Hasuben Shah. She married Punit Shah. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Shah, Punit",
+               "name": "Punit Shah",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Shah, Avni. ",
+               "biography": "He married Avni Shah. ",
                "gender": "male",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Shah, Vaishnavi",
+                 "name": "Vaishnavi Shah",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Shah, Punit and Shah, Avni. ",
+                 "biography": "She is the daughter of Punit Shah and Avni Shah. ",
                  "gender": "female"
                 }
 
@@ -2420,31 +2429,31 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Gandhi, Birva",
+               "name": "Birva Gandhi",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Shah, Mahesh and Shah, Hasuben. She married Gandhi, Hamel. ",
+               "biography": "She is the daughter of Mahesh Shah and Hasuben Shah. She married Hamel Gandhi. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Gandhi, Hamel",
+               "name": "Hamel Gandhi",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Gandhi, Birva. ",
+               "biography": "He married Birva Gandhi. ",
                "gender": "male",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Gandhi, Ishani",
+                 "name": "Ishani Gandhi",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Gandhi, Hamel and Gandhi, Birva. ",
+                 "biography": "She is the daughter of Hamel Gandhi and Birva Gandhi. ",
                  "gender": "female"
                 }
 
@@ -2459,51 +2468,51 @@
             }
 ,            {
              "display_num": "7.",
-             "name": "Mehta, Ramesh",
+             "name": "Ramesh Mehta",
              "spouse": "false",
              "born": "",
              "died": "",
-             "biography": "He is the son of Mehta, Bhaichandbhai and Mehta, Kantaben. He married Mehta, Darshna. ",
+             "biography": "He is the son of Bhaichandbhai Mehta and Kanta Notaria. He married Darshna Mehta. ",
              "gender": "male",
             "children": [
             {
              "display_num": "sp.",
-             "name": "Mehta, Darshna",
+             "name": "Darshna Mehta",
              "spouse": "true",
              "born": "",
              "died": "",
              "marriage": "",
              "divorce": "",
-             "biography": "She married Mehta, Ramesh. ",
+             "biography": "She married Ramesh Mehta. ",
              "gender": "female",
              "children": [
               {
                "display_num": "8.",
-               "name": "Trivedi, Palak",
+               "name": "Palak Trivedi",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Mehta, Ramesh and Mehta, Darshna. She married Trivedi, Asit. ",
+               "biography": "She is the daughter of Ramesh Mehta and Darshna Mehta. She married Asit Trivedi. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Trivedi, Asit",
+               "name": "Asit Trivedi",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Trivedi, Palak. ",
+               "biography": "He married Palak Trivedi. ",
                "gender": "male",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Trivedi, Aryan",
+                 "name": "Aryan Trivedi",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Trivedi, Asit and Trivedi, Palak. ",
+                 "biography": "He is the son of Asit Trivedi and Palak Trivedi. ",
                  "gender": "male"
                 }
 
@@ -2513,40 +2522,40 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Mehta, Dimple",
+               "name": "Dimple Mehta",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Mehta, Ramesh and Mehta, Darshna. She married Mehta, Rishi. ",
+               "biography": "She is the daughter of Ramesh Mehta and Darshna Mehta. She married Rishi Mehta. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Mehta, Rishi",
+               "name": "Rishi Mehta",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Mehta, Dimple. ",
+               "biography": "He married Dimple Mehta. ",
                "gender": "male",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Mehta, Eva",
+                 "name": "Eva Mehta",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Mehta, Rishi and Mehta, Dimple. ",
+                 "biography": "She is the daughter of Rishi Mehta and Dimple Mehta. ",
                  "gender": "female"
                 }
 ,                {
                  "display_num": "9.",
-                 "name": "Mehta, Agtsya",
+                 "name": "Agtsya Mehta",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Mehta, Rishi and Mehta, Dimple. ",
+                 "biography": "He is the son of Rishi Mehta and Dimple Mehta. ",
                  "gender": "male"
                 }
 
@@ -2556,31 +2565,31 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Mehta, Keval",
+               "name": "Keval Mehta",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "He is the son of Mehta, Ramesh and Mehta, Darshna. He married Mehta, Hiral. ",
+               "biography": "He is the son of Ramesh Mehta and Darshna Mehta. He married Hiral Mehta. ",
                "gender": "male",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Mehta, Hiral",
+               "name": "Hiral Mehta",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "She married Mehta, Keval. ",
+               "biography": "She married Keval Mehta. ",
                "gender": "female",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Mehta, Aanaya",
+                 "name": "Aanaya Mehta",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Mehta, Keval and Mehta, Hiral. ",
+                 "biography": "She is the daughter of Keval Mehta and Hiral Mehta. ",
                  "gender": "female"
                 }
 
@@ -2595,51 +2604,51 @@
             }
 ,            {
              "display_num": "7.",
-             "name": "Vora, Mina",
+             "name": "Mina Vora",
              "spouse": "false",
              "born": "",
              "died": "",
-             "biography": "She is the daughter of Mehta, Bhaichandbhai and Mehta, Kantaben. She married Vora, Prakash. ",
+             "biography": "She is the daughter of Bhaichandbhai Mehta and Kanta Notaria. She married Prakash Vora. ",
              "gender": "female",
             "children": [
             {
              "display_num": "sp.",
-             "name": "Vora, Prakash",
+             "name": "Prakash Vora",
              "spouse": "true",
              "born": "",
              "died": "",
              "marriage": "",
              "divorce": "",
-             "biography": "He married Vora, Mina. ",
+             "biography": "He married Mina Vora. ",
              "gender": "male",
              "children": [
               {
                "display_num": "8.",
-               "name": "Vora, Hardik",
+               "name": "Hardik Vora",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "He is the son of Vora, Prakash and Vora, Mina. He married Vora, Kajal. ",
+               "biography": "He is the son of Prakash Vora and Mina Vora. He married Kajal Vora. ",
                "gender": "male",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Vora, Kajal",
+               "name": "Kajal Vora",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "She married Vora, Hardik. ",
+               "biography": "She married Hardik Vora. ",
                "gender": "female",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Vora, Pranil",
+                 "name": "Pranil Vora",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "He is the son of Vora, Hardik and Vora, Kajal. ",
+                 "biography": "He is the son of Hardik Vora and Kajal Vora. ",
                  "gender": "male"
                 }
 
@@ -2649,31 +2658,31 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Vora, Sunkent",
+               "name": "Sunkent Vora",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "He is the son of Vora, Prakash and Vora, Mina. He married Vora, Jia. ",
+               "biography": "He is the son of Prakash Vora and Mina Vora. He married Jia Vora. ",
                "gender": "male",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Vora, Jia",
+               "name": "Jia Vora",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "She married Vora, Sunkent. ",
+               "biography": "She married Sunkent Vora. ",
                "gender": "female",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Vora, Dwiti",
+                 "name": "Dwiti Vora",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Vora, Sunkent and Vora, Jia. ",
+                 "biography": "She is the daughter of Sunkent Vora and Jia Vora. ",
                  "gender": "female"
                 }
 
@@ -2688,51 +2697,51 @@
             }
 ,            {
              "display_num": "7.",
-             "name": "Mehta, Bupesh",
+             "name": "Bupesh Mehta",
              "spouse": "false",
              "born": "",
              "died": "",
-             "biography": "He is the son of Mehta, Bhaichandbhai and Mehta, Kantaben. He married Mehta, Anita. ",
+             "biography": "He is the son of Bhaichandbhai Mehta and Kanta Notaria. He married Anita Mehta. ",
              "gender": "male",
             "children": [
             {
              "display_num": "sp.",
-             "name": "Mehta, Anita",
+             "name": "Anita Mehta",
              "spouse": "true",
              "born": "",
              "died": "",
              "marriage": "",
              "divorce": "",
-             "biography": "She married Mehta, Bupesh. ",
+             "biography": "She married Bupesh Mehta. ",
              "gender": "female",
              "children": [
               {
                "display_num": "8.",
-               "name": "Anjani, Isha",
+               "name": "Isha Anjani",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Mehta, Bupesh and Mehta, Anita. She married Anjani, Kavan. ",
+               "biography": "She is the daughter of Bupesh Mehta and Anita Mehta. She married Kavan Anjani. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Anjani, Kavan",
+               "name": "Kavan Anjani",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Anjani, Isha. ",
+               "biography": "He married Isha Anjani. ",
                "gender": "male",
                "children": [
                 {
                  "display_num": "9.",
-                 "name": "Anjani, Rayna",
+                 "name": "Rayna Anjani",
                  "spouse": "false",
                  "born": "",
                  "died": "",
-                 "biography": "She is the daughter of Anjani, Kavan and Anjani, Isha. ",
+                 "biography": "She is the daughter of Kavan Anjani and Isha Anjani. ",
                  "gender": "female"
                 }
 
@@ -2742,22 +2751,22 @@
               }
 ,              {
                "display_num": "8.",
-               "name": "Kothari, Prusha",
+               "name": "Prusha Kothari",
                "spouse": "false",
                "born": "",
                "died": "",
-               "biography": "She is the daughter of Mehta, Bupesh and Mehta, Anita. She married Kothari, Harsh. ",
+               "biography": "She is the daughter of Bupesh Mehta and Anita Mehta. She married Harsh Kothari. ",
                "gender": "female",
               "children": [
               {
                "display_num": "sp.",
-               "name": "Kothari, Harsh",
+               "name": "Harsh Kothari",
                "spouse": "true",
                "born": "",
                "died": "",
                "marriage": "",
                "divorce": "",
-               "biography": "He married Kothari, Prusha. ",
+               "biography": "He married Prusha Kothari. ",
                "gender": "male"              }
               ]
               }
@@ -2773,20 +2782,20 @@
           }
 ,          {
            "display_num": "6.",
-           "name": "Mehta, Maganbhai",
+           "name": "Maganbhai Mehta",
            "spouse": "false",
            "born": "",
            "died": "",
-           "biography": "He is the son of Mehta, Kibabhai and Mehta, Harakh. ",
+           "biography": "He is the son of Kibabhai Mehta and Harakh Mehta. ",
            "gender": "male"
           }
 ,          {
            "display_num": "6.",
-           "name": ", Ka??? (3G)",
+           "name": "Ka??? (3G)",
            "spouse": "false",
            "born": "",
            "died": "",
-           "biography": "He is the son of Mehta, Kibabhai and Mehta, Harakh. ",
+           "biography": "He is the son of Kibabhai Mehta and Harakh Mehta. ",
            "gender": "male"
           }
 
@@ -2796,29 +2805,29 @@
         }
 ,        {
          "display_num": "5.",
-         "name": "Mehta, Dayabhai",
+         "name": "Dayabhai Mehta",
          "spouse": "false",
          "born": "",
          "died": "",
-         "biography": "He is the son of Mehta, Lavji. ",
+         "biography": "He is the son of Lavji Mehta. ",
          "gender": "male"
         }
 ,        {
          "display_num": "5.",
-         "name": "Mehta, Amrataben",
+         "name": "Amrataben Mehta",
          "spouse": "false",
          "born": "",
          "died": "",
-         "biography": "She is the daughter of Mehta, Lavji. ",
+         "biography": "She is the daughter of Lavji Mehta. ",
          "gender": "female"
         }
 ,        {
          "display_num": "5.",
-         "name": "Mehta, Nanabhai",
+         "name": "Nanabhai Mehta",
          "spouse": "false",
          "born": "",
          "died": "",
-         "biography": "He is the son of Mehta, Lavji. ",
+         "biography": "He is the son of Lavji Mehta. ",
          "gender": "male"
         }
 
